@@ -24,7 +24,7 @@
 <div class="col-xl">от</div>
 <div class="col-xl">18<input type="number" class="form-control" name="limit" id="limit" value="18"   style="visibility: hidden;"  placeholder="Возвраст"></div>
 <div class="col-xl"> лет  </div>
-<div class="col-8"> </div> 
+<div class="col-8"> <a href="https://docs.google.com/spreadsheets/d/1N65zLjKt724vtDwcOlyQoknLazgQHWx21xjlXXn5vIo/edit#gid=0" target="_new">Просмотреть</a></div> 
    </div>
 </div>
      <div class="col-2">  </div>
